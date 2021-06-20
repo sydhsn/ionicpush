@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780430264848",
+    "project_id": "pushnotification-1eb0e",
+    "storage_bucket": "pushnotification-1eb0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780430264848:android:505e429cc5473ca4751895",
+        "android_client_info": {
+          "package_name": "com.saiyad.ionicpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780430264848-6sjl7p11b1mnpksc6r5l41pa7t89pope.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQBvzPmy8uWgOQCnAf1Sl9YuTeMt9ECbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780430264848-6sjl7p11b1mnpksc6r5l41pa7t89pope.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
